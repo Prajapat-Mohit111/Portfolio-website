@@ -782,19 +782,6 @@ body {
     align-items: center;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*== style for contact section===*/
 #contact{
     background-color: var(--bg-color1);
@@ -1023,4 +1010,4 @@ footer{
     justify-content: space-between;
     
 }
-
+}
